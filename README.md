@@ -3,6 +3,10 @@ Customer churn is a critical issue for businesses, impacting revenue and growth.
 
 ![image](https://github.com/Hagar-zakaria/Understanding-Customer-Churn-Through-Data-Analysis-and-Prediction-A-Power-BI-Dashboard/assets/93611934/7f3ebc41-48cf-4145-8387-7ac9cd240271)
 
+![image](https://github.com/Hagar-zakaria/Understanding-Customer-Churn-Through-Data-Analysis-and-Prediction-A-Power-BI-Dashboard/assets/93611934/34a269e3-cf12-41f6-9598-0d8ec06279a9)
+
+![image](https://github.com/Hagar-zakaria/Understanding-Customer-Churn-Through-Data-Analysis-and-Prediction-A-Power-BI-Dashboard/assets/93611934/608df518-2b8e-49a6-a72a-8fb8c977649a)
+
 
 # Overview of the Dashboard
 The dashboard provides a detailed view of customer churn metrics, segmented by various demographic and financial factors. 
