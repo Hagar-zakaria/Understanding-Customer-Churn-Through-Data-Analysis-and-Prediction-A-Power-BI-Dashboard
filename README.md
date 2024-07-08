@@ -1,6 +1,9 @@
 # Understanding-Customer-Churn-Through-Data-Analysis-and-Prediction-A-Power-BI-Dashboard
 Customer churn is a critical issue for businesses, impacting revenue and growth. Understanding and predicting churn can help in developing targeted retention strategies. This article discusses a comprehensive Power BI dashboard created to analyze and predict customer churn, highlighting key insights and actionable steps based on data analysis.
 
+![image](https://github.com/Hagar-zakaria/Understanding-Customer-Churn-Through-Data-Analysis-and-Prediction-A-Power-BI-Dashboard/assets/93611934/7f3ebc41-48cf-4145-8387-7ac9cd240271)
+
+
 # Overview of the Dashboard
 The dashboard provides a detailed view of customer churn metrics, segmented by various demographic and financial factors. 
 
